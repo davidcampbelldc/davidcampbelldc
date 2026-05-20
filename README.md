@@ -36,4 +36,4 @@ Building AI-powered tools that eliminate the grunt work from performance testing
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidcampbell-ai/)
 [![Website](https://img.shields.io/badge/LoadMagic.ai-FF6B35?style=flat&logo=googlechrome&logoColor=white)](https://loadmagic.ai)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=hashnode&logoColor=white)](https://loadmagic.ai/blog.html)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=yTHHNpH1J_M)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@loadmagic)
