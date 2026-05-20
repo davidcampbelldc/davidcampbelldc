@@ -23,10 +23,9 @@ Building AI-powered tools that eliminate the grunt work from performance testing
 
 ## Published Work
 
-| Title | Platform | Topic |
-|-------|----------|-------|
-| [AI Performance Testing](https://leanpub.com/ai-performance-testing) | Leanpub | How AI is transforming performance testing methodology and tooling |
-| [AI Performance Engineering: Agentic AI](https://academy.innovateq.io/course/ai-performance-engineering-agentic-ai) | InnovateQ Academy | Hands-on course on agentic AI for performance engineering |
+**[AI Performance Testing](https://leanpub.com/ai-performance-testing)** -- How AI is transforming performance testing methodology and tooling. Available on [Leanpub](https://leanpub.com/ai-performance-testing) and [InnovateQ Academy](https://academy.innovateq.io/course/ai-performance-engineering-agentic-ai).
+
+**AI Performance Engineering** (course) -- Hands-on training programme launching soon. Build your own AI correlation agent from scratch across five phases, from first LLM API call to multi-agent system.
 
 ## Featured Open Source
 
