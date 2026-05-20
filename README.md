@@ -23,15 +23,17 @@ Building AI-powered tools that eliminate the grunt work from performance testing
 
 ## Featured Open Source
 
-| Project | Description |
-|---------|-------------|
-| [jmeter-visual-extractor](https://github.com/loadmagic/jmeter-visual-extractor) | Visual JSON path builder & regex boundary selector for JMeter |
-| [jmeter-load-distributor](https://github.com/loadmagic/jmeter-load-distributor) | Automatic thread count distribution across JMeter generators |
-| [hermes-agent](https://github.com/davidcampbelldc/hermes-agent) | Contributions to NousResearch's AI agent framework |
-| [uk-sen-guide](https://github.com/davidcampbelldc/uk-sen-guide) | Hybrid RAG retrieval over UK SEN guidance documents |
+| Project | Description | Available On |
+|---------|-------------|-------------|
+| [jmeter-load-distributor](https://github.com/loadmagic/jmeter-load-distributor) | Automatic thread count distribution across JMeter generators | [JMeter Plugins](https://jmeter-plugins.org/) |
+| [jmeter-visual-extractor](https://github.com/loadmagic/jmeter-visual-extractor) | Visual JSON path builder & regex boundary selector for JMeter | GitHub |
+| [HAR Transaction Marker](https://addons.mozilla.org/en-US/firefox/addon/har-transaction-marker/) | Browser extension for tagging transaction boundaries during HAR recording | [Chrome](https://chromewebstore.google.com/search/HAR%20Transaction%20Marker) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/har-transaction-marker/) |
+| [hermes-agent](https://github.com/davidcampbelldc/hermes-agent) | Contributions to NousResearch's AI agent framework | GitHub |
+| [uk-sen-guide](https://github.com/davidcampbelldc/uk-sen-guide) | Hybrid RAG retrieval over UK SEN guidance documents | GitHub |
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidcampbell-ai/)
 [![Website](https://img.shields.io/badge/LoadMagic.ai-FF6B35?style=flat&logo=googlechrome&logoColor=white)](https://loadmagic.ai)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=hashnode&logoColor=white)](https://loadmagic.ai/blog)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=hashnode&logoColor=white)](https://loadmagic.ai/blog.html)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=yTHHNpH1J_M)
