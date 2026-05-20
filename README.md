@@ -21,6 +21,13 @@ Building AI-powered tools that eliminate the grunt work from performance testing
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
+## Published Work
+
+| Title | Platform | Topic |
+|-------|----------|-------|
+| [AI Performance Testing](https://leanpub.com/ai-performance-testing) | Leanpub | How AI is transforming performance testing methodology and tooling |
+| [AI Performance Engineering: Agentic AI](https://academy.innovateq.io/course/ai-performance-engineering-agentic-ai) | InnovateQ Academy | Hands-on course on agentic AI for performance engineering |
+
 ## Featured Open Source
 
 | Project | Description | Available On |
